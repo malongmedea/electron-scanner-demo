@@ -13,7 +13,7 @@
     "demo"
   ],
   "author": "karl.ma",
-  "license": "MTI",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^4.0.0",
     "eslint": "^5.10.0"
