@@ -1,0 +1,23 @@
+{
+  "name": "electron-scanner-demo",
+  "version": "0.1.0",
+  "description": "electron + node.js addon + twain 调用扫描仪示例",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "karl.ma",
+  "license": "MTI",
+  "devDependencies": {
+    "electron": "^4.0.0",
+    "eslint": "^5.10.0"
+  }
+}
